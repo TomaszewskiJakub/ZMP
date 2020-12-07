@@ -1,0 +1,34 @@
+warning: Tag `XML_SCHEMA' at line 1839 of file `Doxyfile' has become obsolete.
+         To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+warning: Tag `XML_DTD' at line 1845 of file `Doxyfile' has become obsolete.
+         To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+warning: doxygen no longer ships with the FreeSans font.
+You may want to clear or change DOT_FONTNAME.
+Otherwise you run the risk that the wrong font is being used for dot generated graphs.
+/media/patryk/UBUNTU 20_0/Etap2Klient/src/klient.cpp:272: warning: argument 'rSender' of command @param is not found in the argument list of Fun_CommunicationThread(Sender *pSender)
+/media/patryk/UBUNTU 20_0/Etap2Klient/src/klient.cpp:279: warning: The following parameters of Fun_CommunicationThread(Sender *pSender) are not documented:
+  parameter 'pSender'
+/media/patryk/UBUNTU 20_0/Etap2Klient/inc/Configuration.hh:82: warning: The following parameters of Configuration::AddMobileName(std::string mobName) are not documented:
+  parameter 'mobName'
+/media/patryk/UBUNTU 20_0/Etap2Klient/inc/ConnectionManager.hh:95: warning: argument 'Socket' of command @param is not found in the argument list of ConnectionManager::Watching_and_Sending()
+/media/patryk/UBUNTU 20_0/Etap2Klient/inc/Cuboid.hh:53: warning: argument 'in_color' of command @param is not found in the argument list of Cuboid::Cuboid(std::string in_name, Vector3D in_rot_deg, Vector3D in_pos_m, Vector3D in_scale, int in_colorR, int in_colorG, int in_colorB)
+/media/patryk/UBUNTU 20_0/Etap2Klient/inc/Cuboid.hh:62: warning: The following parameters of Cuboid::Cuboid(std::string in_name, Vector3D in_rot_deg, Vector3D in_pos_m, Vector3D in_scale, int in_colorR, int in_colorG, int in_colorB) are not documented:
+  parameter 'in_colorR'
+  parameter 'in_colorG'
+  parameter 'in_colorB'
+/media/patryk/UBUNTU 20_0/Etap2Klient/inc/MobileObject.hh:35: warning: argument 'in_rot' of command @param is not found in the argument list of MobileObject::MobileObject(std::string in_name, Vector3D in_rot_deg, Vector3D in_pos_m)
+/media/patryk/UBUNTU 20_0/Etap2Klient/inc/MobileObject.hh:35: warning: argument 'in_pos' of command @param is not found in the argument list of MobileObject::MobileObject(std::string in_name, Vector3D in_rot_deg, Vector3D in_pos_m)
+/media/patryk/UBUNTU 20_0/Etap2Klient/inc/MobileObject.hh:42: warning: The following parameters of MobileObject::MobileObject(std::string in_name, Vector3D in_rot_deg, Vector3D in_pos_m) are not documented:
+  parameter 'in_rot_deg'
+  parameter 'in_pos_m'
+/media/patryk/UBUNTU 20_0/Etap2Klient/src/klient.cpp:238: warning: argument 'Socket' of command @param is not found in the argument list of Sender::Watching_and_Sending()
+/media/patryk/UBUNTU 20_0/Etap2Klient/src/xmlinterp.cpp:224: warning: Unsupported xml/html tag </Lib> found
+/media/patryk/UBUNTU 20_0/Etap2Klient/inc/xmlinterp.hh:59: warning: The following parameters of XMLInterp4Config::endElement(const XMLCh *const pURI, const XMLCh *const pLocalName, const XMLCh *const pQName) are not documented:
+  parameter 'pURI'
+  parameter 'pQName'
+/media/patryk/UBUNTU 20_0/Etap2Klient/src/xmlinterp.cpp:272: warning: argument 'Except' of command @param is not found in the argument list of XMLInterp4Config::error(const xercesc::SAXParseException &Exception)
+/media/patryk/UBUNTU 20_0/Etap2Klient/inc/xmlinterp.hh:71: warning: The following parameters of XMLInterp4Config::error(const xercesc::SAXParseException &Exception) are not documented:
+  parameter 'Exception'
+/media/patryk/UBUNTU 20_0/Etap2Klient/inc/xmlinterp.hh:49: warning: The following parameters of XMLInterp4Config::startElement(const XMLCh *const pURI, const XMLCh *const pLocalName, const XMLCh *const pQNname, const xercesc::Attributes &Attrs) are not documented:
+  parameter 'pURI'
+  parameter 'pQNname'

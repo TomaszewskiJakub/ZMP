@@ -1,0 +1,12 @@
+<map id="XMLInterp4Config::XMLInterp4Config" name="XMLInterp4Config::XMLInterp4Config">
+<area shape="rect" id="node2" href="$class_x_m_l_interp4_config.html#affa1d4151a931ef3420a90ac1832e936" title="Wywoływana jest na początku dokumentu. " alt="" coords="252,5,467,32"/>
+<area shape="rect" id="node3" href="$class_x_m_l_interp4_config.html#adf49a6fe594f903fb9062314827bab30" title="Wywoływana jest na końcu dokumentu. " alt="" coords="254,56,465,83"/>
+<area shape="rect" id="node4" href="$class_x_m_l_interp4_config.html#a8a94957342f5d9164b718453cbfe8511" title="Wywoływana jest po napotkaniu nowego elementu XML. " alt="" coords="258,107,461,133"/>
+<area shape="rect" id="node5" href="$class_x_m_l_interp4_config.html#aeb411a4c43a91d6b586f7222dfb03ba8" title="Wywoływana jest po dojściu do końca elementu XML. " alt="" coords="260,157,459,184"/>
+<area shape="rect" id="node6" href="$class_x_m_l_interp4_config.html#a83074b530c3eabf8eaf74ed211987567" title="Wywoływana jest gdy napotkany zostanie błąd fatalny. " alt="" coords="268,208,451,235"/>
+<area shape="rect" id="node7" href="$class_x_m_l_interp4_config.html#a745a7bf2400f4e2be6f372002f492346" title="Wywoływana jest gdy napotkany zostanie błąd. " alt="" coords="281,259,438,285"/>
+<area shape="rect" id="node8" href="$class_x_m_l_interp4_config.html#a23b3602117802bb111ce9abd0ade8185" title="Wywoływana jest gdy parser sygnalizuje ostrzeżenie. " alt="" coords="272,309,447,336"/>
+<area shape="rect" id="node9" href="$class_x_m_l_interp4_config.html#a70c9a5eaf507576a6461b3869b3f5c4f" title="Wykonuje operacje związane z danym elementem XML. " alt="" coords="263,361,455,402"/>
+<area shape="rect" id="node10" href="$class_x_m_l_interp4_config.html#a6f16ed80b69248daed05fd5d80961877" title="Analizuje atrybuty i odpwiednio je interpretuje. " alt="" coords="271,426,448,467"/>
+<area shape="rect" id="node11" href="$class_x_m_l_interp4_config.html#a74b1452f81364fcb1fcd27a0b50ee98e" title="Analizuje atrybuty i odpwiednio je interpretuje. " alt="" coords="271,491,448,533"/>
+</map>

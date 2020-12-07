@@ -1,0 +1,14 @@
+<map id="Simulation.hh" name="Simulation.hh">
+<area shape="rect" id="node2" href="$_parser_8hh.html" title="Definicja kalsy Parser. " alt="" coords="1404,155,1480,181"/>
+<area shape="rect" id="node20" href="$_plugin_manager_8hh.html" title="Definicja klasy PluginManager. " alt="" coords="1870,80,1995,107"/>
+<area shape="rect" id="node30" href="$_scene_8hh.html" title="Definicja klasy Scene. " alt="" coords="2403,304,2479,331"/>
+<area shape="rect" id="node32" href="$_cuboid_8hh.html" title="Definicja klasy Cuboid. " alt="" coords="1488,80,1567,107"/>
+<area shape="rect" id="node8" href="$xmlinterp_8hh.html" title="xmlinterp.hh" alt="" coords="798,229,889,256"/>
+<area shape="rect" id="node15" href="$_configuration_8hh.html" title="Definicja klasy Configuration. " alt="" coords="1450,304,1565,331"/>
+<area shape="rect" id="node17" href="$_mobile_object_8hh.html" title="Definicja klasy MobileObject. " alt="" coords="1685,379,1799,405"/>
+<area shape="rect" id="node18" href="$_vector3_d_8hh.html" title="Definicja klasy Vector3D. " alt="" coords="1513,453,1605,480"/>
+<area shape="rect" id="node19" href="$_vector2_d_8hh.html" title="Definicja klasy Vector2D. " alt="" coords="1645,453,1737,480"/>
+<area shape="rect" id="node24" href="$_library_interface_8hh.html" title="Definicja klasy LibraryInterface. " alt="" coords="1926,155,2054,181"/>
+<area shape="rect" id="node25" href="$_interp4_command_8hh.html" title="Definicja klasy Interp4Command. " alt="" coords="2078,229,2217,256"/>
+<area shape="rect" id="node26" href="$_access_control_8hh.html" title="Zawiera definicję klasy AccessControl. " alt="" coords="2407,379,2530,405"/>
+</map>
